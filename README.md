@@ -1,6 +1,6 @@
 # CloudNativeToDoAppDeployment
 
-# Cloud Native Todo Application
+
 
 A simple full-stack todo application demonstrating cloud-native deployment practices.
 
