@@ -1,0 +1,13 @@
+apiVersion: v2
+name: todo-app
+description: A Helm chart for Cloud Native Todo Application
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - todo
+  - cloud-native
+  - kubernetes
+maintainers:
+  - name: Developer
+    email: dev@example.com
